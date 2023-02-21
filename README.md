@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joel Amores</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
+<div align="center">  <a href="https://github.com/joelamores95">  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=joelamores95&show_icons=truecount_private=true&locale=es&custom_title=My%20GitHub%20Stats"/>  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelamores95&layout=compact&langs_count=10"/></div>
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
